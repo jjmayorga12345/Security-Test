@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kameron:wght@400..700&display=swap');
+
+
+
+
+#featuredItems {
+    font-family: "Nanum Myeongjo", serif;
+    background-color:#FCE4DE;
+
+}
+
+#nav{
+    
+        background-color: #0080ff;
+        border: #bcbcbc 1px solid;
+        color: black;
+        font-family: "Kameron", serif;
+}
+
+#aboutUS{
+    font-family: "Nanum Myeongjo", serif;
+    background-color:#FCE4DE;
+}
+
+#h2{
+    color: #00735C;}
